@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ovoschi">
+        <item>Картофель</item>
+        <item>Морковь</item>
+        <item>Огурцы</item>
+        <item>Помидоры</item>
+        <item>Кабачки</item>
+    </string-array>
+</resources>

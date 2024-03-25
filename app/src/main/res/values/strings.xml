@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">practice5</string>
+    <string name="choosen_cat">Выбранная категория</string>
+    <string name="category_fruits">Фрукты</string>
+    <string name="category_milks">Молочная продукция</string>
+    <string name="category_beverages">Напитки</string>
+    <string name="category_vegetables">Овощи</string>
+    <string name="category_meat">Мясная продукция</string>
+    <string name="b_add">Добавить</string>
+    <string name="b_remove">Удалить</string>
+    <string name="ch_el">Введите элемент</string>
+    <string name="text">Текст текст</string>
+    <string name="scroll_text">Введите текст</string>
+    <string name="textview_1">TextView 1TextTextTextTeTextTextxtTextTextTextTextTextTextTextText</string>
+    <string name="textview_2">TextView 2TextTextTextTTextTextextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextText</string>
+    <string name="textview_3">TextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextTextText</string>
+    <string name="textview_4">TextTextTextTextTextTextText</string>
+    <string name="pole">Введите текст</string>
+    <string name="sp_el">Выбранный элемент:</string>
+
+</resources>
